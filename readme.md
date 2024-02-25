@@ -7,7 +7,7 @@ Cette exploration doit permettre de révise
 - [x] Markdown
 - [x] HTML
 - [x] Javascipt
-- [x] Emmet
+- [ ] Emmet
 
 Mais également découvrir le fonctionnement de git 
 ![](https://)
